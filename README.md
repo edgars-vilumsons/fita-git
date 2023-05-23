@@ -1,0 +1,2 @@
+# fita-git
+Git training
